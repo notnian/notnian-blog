@@ -25,6 +25,7 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+        <script defer data-domain="blog.notnian.dev" src="https://plausible.notnian.dev/js/script.js"></script>
       </body>
     </Html>
   )
